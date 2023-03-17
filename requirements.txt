@@ -1,6 +1,5 @@
 flask
-render
-request
+pandas
 numpy
 scikit-learn
 gunicorn
