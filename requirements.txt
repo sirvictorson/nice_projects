@@ -1,0 +1,6 @@
+flask
+render
+request
+numpy
+scikit-learn
+pickle
